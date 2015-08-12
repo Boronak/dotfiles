@@ -1,2 +1,2 @@
-source ~/.config/fish/solarized.fish
+. ~/.config/fish/solarized.fish
 ulimit -c unlimited
